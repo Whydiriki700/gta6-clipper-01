@@ -1,3 +1,5 @@
+![gta6-clipper-01](assets/preview.png)
+
 # GTA 6 Clipper: The Final Act of Trailer 2, Vertical
 
 [![bounty](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
